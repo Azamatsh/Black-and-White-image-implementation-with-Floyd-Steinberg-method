@@ -1,0 +1,1 @@
+# Black-and-White-image-implementation-with-Floyd-Steinberg-method
